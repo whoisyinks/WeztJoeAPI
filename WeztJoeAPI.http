@@ -1,0 +1,6 @@
+@WeztJoeAPI_HostAddress = http://localhost:5121
+
+GET {{WeztJoeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
